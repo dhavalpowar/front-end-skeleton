@@ -1,0 +1,25 @@
+
+# Exclude node_modules
+node_modules/
+
+# Distribution directory
+dist/
+
+### Code ###
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Coverage directory used by tools like istanbul
+coverage
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
